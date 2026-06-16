@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wnuczeq&style=flat-square&color=ff69b4&label=PROFILE+VIEWS+💖" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/wnuczeq?label=FOLLOWERS+✨&style=flat-square&color=purple" alt="followers" />
 </p>
 
 ---
@@ -28,15 +27,6 @@ I'm a **Passionate Full Stack Developer** dedicated to building fast, optimized,
 | 🌐 **My SpaceBio** | [space-lol.onrender.com/axolek](https://space-lol.onrender.com/axolek) | `Personal Bio` 🛸 |
 | 🏎️ **Skyline Freeroam** | [discord.gg/skylinefr](https://discord.gg/skylinefr) | `Server Owner` 👑 |
 | ⚙️ **212 Services** | [discord.gg/sE4eUHHUMU](https://discord.gg/sE4eUHHUMU) | `Brand Owner & Dev` 👑 |
-
----
-
-### 🎀 Anime & Neko Gifs
-
-<p align="left">
-  <img src="https://media.tenor.com/7p_P67uOOf8AAAAi/hello-kitty-sanrio.gif" width="150" alt="Hello Kitty Gif" />
-  <img src="https://media.tenor.com/26vB7PWh1scAAAAi/cat-space.gif" width="150" alt="Cat Space Gif" />
-</p>
 
 ---
 
@@ -65,6 +55,16 @@ I'm a **Passionate Full Stack Developer** dedicated to building fast, optimized,
 
 ---
 
+### ⚙️ Setup & Environment
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="left">
@@ -77,6 +77,10 @@ I'm a **Passionate Full Stack Developer** dedicated to building fast, optimized,
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=wnuczeq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="axolek's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wnuczeq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
