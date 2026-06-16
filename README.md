@@ -57,18 +57,15 @@ I'm a **Passionate Full Stack Developer** dedicated to building fast, optimized,
 
 ### ⚙️ Setup & Environment
 
+* 💻 **Main Stage:** Windows OS + VS Code setup for rapid development ⚙️
+* 🚀 **Second Laptop:** Running **Arch Linux** btw 🐧 (pure performance & optimization)
+* 💬 **Hub:** Active on Discord for server management and live scripting tools 🛠️
+
 <p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Arch_Linux-333333?style=flat-square&logo=arch-linux&logoColor=1793D1" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=wnuczeq&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
@@ -85,6 +82,14 @@ I'm a **Passionate Full Stack Developer** dedicated to building fast, optimized,
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnuczeq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 Recent Contributions
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wnuczeq&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
