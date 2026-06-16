@@ -20,6 +20,17 @@ I'm a **Passionate Full Stack Developer** dedicated to building fast, optimized,
 
 ---
 
+### 👑 Projects & Kingdoms
+
+| Project | Link / Invite | Role |
+| :--- | :--- | :--- |
+| 🚀 **SpaceBio** | [space-lol.onrender.com](https://space-lol.onrender.com/) | `Founder & Owner` 👑 |
+| 🌐 **My SpaceBio** | [space-lol.onrender.com/axolek](https://space-lol.onrender.com/axolek) | `Personal Bio` 🛸 |
+| 🏎️ **Skyline Freeroam** | [discord.gg/skylinefr](https://discord.gg/skylinefr) | `Server Owner` 👑 |
+| ⚙️ **212 Services** | [discord.gg/sE4eUHHUMU](https://discord.gg/sE4eUHHUMU) | `Brand Owner & Dev` 👑 |
+
+---
+
 ### 🛠️ Tech Stack & Arsenal
 
 <p align="left">
@@ -45,14 +56,13 @@ I'm a **Passionate Full Stack Developer** dedicated to building fast, optimized,
 
 ---
 
-### 👑 Projects & Kingdoms
+### 🎀 Sanrio & Neko Badges
 
-| Project | Link / Invite | Role |
-| :--- | :--- | :--- |
-| 🚀 **SpaceBio** | [space-lol.onrender.com](https://space-lol.onrender.com/) | `Founder & Owner` 👑 |
-| 🌐 **My SpaceBio** | [space-lol.onrender.com/axolek](https://space-lol.onrender.com/axolek) | `Personal Bio` 🛸 |
-| 🏎️ **Skyline Freeroam** | [discord.gg/skylinefr](https://discord.gg/skylinefr) | `Server Owner` 👑 |
-| ⚙️ **212 Services** | [discord.gg/sE4eUHHUMU](https://discord.gg/sE4eUHHUMU) | `Brand Owner & Dev` 👑 |
+<p align="left">
+  <img src="https://img.shields.io/badge/Hello_Kitty-FFB6C1?style=for-the-badge&logo=hello-kitty&logoColor=white" alt="Hello Kitty Badge" />
+  <img src="https://img.shields.io/badge/Kuromi_Vibes-A020F0?style=for-the-badge&logo=instagram&logoColor=white" alt="Kuromi Badge" />
+  <img src="https://img.shields.io/badge/Neko_Coder-FF1493?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Neko Badge" />
+</p>
 
 ---
 
@@ -61,18 +71,6 @@ I'm a **Passionate Full Stack Developer** dedicated to building fast, optimized,
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=wnuczeq&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
-
----
-
-### 🐾 Neko Code Zone 🐾
-
-  /\_/\
- ( o.o )  ~ "Code fast, optimize everything!"
-  > ^ <
- /     \
-|       |
-())
-
 
 ---
 
@@ -87,6 +85,12 @@ I'm a **Passionate Full Stack Developer** dedicated to building fast, optimized,
 </p>
 
 ---
+
+### 🐾 Run Kitty Run! 🐾
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/766F6E/766F6E/main/images/cat.gif" width="100%" alt="Walking Cat Widget" />
+</p>
 
 <p align="center">
   ⏱️ 🛠️ ⚡ <i>Driven by performance. Crafted with passion.</i> ⚡ 🛠️ ⏱️
