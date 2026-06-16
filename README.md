@@ -31,6 +31,15 @@ I'm a **Passionate Full Stack Developer** dedicated to building fast, optimized,
 
 ---
 
+### 🎀 Anime & Neko Gifs
+
+<p align="left">
+  <img src="https://media.tenor.com/7p_P67uOOf8AAAAi/hello-kitty-sanrio.gif" width="150" alt="Hello Kitty Gif" />
+  <img src="https://media.tenor.com/26vB7PWh1scAAAAi/cat-space.gif" width="150" alt="Cat Space Gif" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Arsenal
 
 <p align="left">
@@ -56,16 +65,6 @@ I'm a **Passionate Full Stack Developer** dedicated to building fast, optimized,
 
 ---
 
-### 🎀 Sanrio & Neko Badges
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Hello_Kitty-FFB6C1?style=for-the-badge&logo=hello-kitty&logoColor=white" alt="Hello Kitty Badge" />
-  <img src="https://img.shields.io/badge/Kuromi_Vibes-A020F0?style=for-the-badge&logo=instagram&logoColor=white" alt="Kuromi Badge" />
-  <img src="https://img.shields.io/badge/Neko_Coder-FF1493?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Neko Badge" />
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="left">
@@ -85,12 +84,6 @@ I'm a **Passionate Full Stack Developer** dedicated to building fast, optimized,
 </p>
 
 ---
-
-### 🐾 Run Kitty Run! 🐾
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/766F6E/766F6E/main/images/cat.gif" width="100%" alt="Walking Cat Widget" />
-</p>
 
 <p align="center">
   ⏱️ 🛠️ ⚡ <i>Driven by performance. Crafted with passion.</i> ⚡ 🛠️ ⏱️
