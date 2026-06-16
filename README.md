@@ -4,6 +4,12 @@ I'm a **Passionate Full Stack Developer** dedicated to building fast, optimized,
 
 ---
 
+### 👑 Projects & Links
+* 🚀 **Owner of SpaceBio:** [space-lol.onrender.com](https://space-lol.onrender.com/)
+* 🌐 **My SpaceBio Profile:** [space-lol.onrender.com/axolek](https://space-lol.onrender.com/axolek)
+
+---
+
 ### 📊 My GitHub Stats
 
 <p align="left">
