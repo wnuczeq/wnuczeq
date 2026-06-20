@@ -25,7 +25,6 @@ I'm a **Passionate Full Stack Developer** dedicated to building fast, optimized,
 | :--- | :--- | :--- |
 | 🚀 **SpaceBio** | [space-lol.onrender.com](https://space-lol.onrender.com/) | `Founder & Owner` 👑 |
 | 🌐 **My SpaceBio** | [space-lol.onrender.com/axolek](https://space-lol.onrender.com/axolek) | `Personal Bio` 🛸 |
-| 🏎️ **Skyline Freeroam** | [discord.gg/skylinefr](https://discord.gg/skylinefr) | `Server Owner` 👑 |
 | ⚙️ **212 Services** | [discord.gg/sE4eUHHUMU](https://discord.gg/sE4eUHHUMU) | `Brand Owner & Dev` 👑 |
 
 ---
