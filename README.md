@@ -1,7 +1,4 @@
 # ⚡ Welcome to my Developer Space! 🛸
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&width=435&lines=Hi+there%2C+I'm+axolek!;Passionate+Developer;Owner+of+SpaceBio;Owner+of+212+Services" alt="Typing SVG" />
 </p>
 
 <p align="center">
