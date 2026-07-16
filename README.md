@@ -11,8 +11,7 @@
 
 I'm a **Passionate Full Stack Developer** dedicated to building fast, optimized, and visually stunning applications. 👑 I love mixing clean code ⚙️ with glass UI designs 💎, optimizing scripts for peak performance ⚡, and building epic server tools! 🛠️🔥
 
-* 🐾 **Current Mood:** Coding with cats & chasing maximum FPS 📈
-* 🎀 **Aesthetic:** Clean layouts, neon accents & glassmorphism 🌌
+
 
 ---
 
@@ -20,8 +19,6 @@ I'm a **Passionate Full Stack Developer** dedicated to building fast, optimized,
 
 | Project | Link / Invite | Role |
 | :--- | :--- | :--- |
-| 🚀 **SpaceBio** | [space-lol.onrender.com](https://space-lol.onrender.com/) | `Founder & Owner` 👑 |
-| 🌐 **My SpaceBio** | [space-lol.onrender.com/axolek](https://space-lol.onrender.com/axolek) | `Personal Bio` 🛸 |
 | ⚙️ **212 Services** | [discord.gg/sE4eUHHUMU](https://discord.gg/sE4eUHHUMU) | `Brand Owner & Dev` 👑 |
 
 ---
