@@ -15,11 +15,6 @@ I'm a **Passionate Full Stack Developer** dedicated to building fast, optimized,
 
 ---
 
-### 👑 Projects & Kingdoms
-
-| Project | Link / Invite | Role |
-| :--- | :--- | :--- |
-| ⚙️ **212 Services** | [discord.gg/sE4eUHHUMU](https://discord.gg/sE4eUHHUMU) | `Brand Owner & Dev` 👑 |
 
 ---
 
